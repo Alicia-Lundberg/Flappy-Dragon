@@ -2,6 +2,9 @@
 
 Ett 2D-spel utvecklat i Unity där du styr en drake genom att flyga mellan hinder i form av borgar.
 
+Se en video från Flappy Dragon på YouTube:  
+[![Spela video](https://img.youtube.com/vi/hY5cCjk3fws/0.jpg)](https://www.youtube.com/watch?v=hY5cCjk3fws)
+
 ---
 
 ## Tekniker och verktyg
