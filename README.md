@@ -31,4 +31,5 @@ Du startar med 3 liv. Om du tappar liv kan du återfå dem genom att samla hjär
 ## Användning
 
 Starta spelet i Unity-editorn genom att klicka på Play-knappen. Styr draken med mellanslag för att flyga.  
+Tryck q för att avsluta spelet
 
